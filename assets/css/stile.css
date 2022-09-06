@@ -43,14 +43,12 @@ header div img {
 }
 
 header nav ul {
-    display: flex;
-    justify-content: center;
     margin: 0;
 }
 
 header nav li {
+    display: inline-block;
     list-style: none;
-
     padding: 10px;
 }
 
